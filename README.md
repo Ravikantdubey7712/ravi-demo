@@ -1,2 +1,2 @@
 # ravi-demo
-this is my first gitv repository
+this is my first git repository
